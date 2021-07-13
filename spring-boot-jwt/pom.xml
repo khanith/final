@@ -4,7 +4,7 @@
 	<groupId>com.javainuse</groupId>
 	<artifactId>spring-boot-jwt</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-      <!-- sai-->
+      <!-- saiioo-->
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
